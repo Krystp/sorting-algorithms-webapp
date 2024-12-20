@@ -24,6 +24,4 @@ yarn-error.log*
 
 # Backend
 /backend/node_modules/
-
-# Pliki środowiskowe
 /backend/.env
